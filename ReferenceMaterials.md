@@ -6,10 +6,15 @@
 具体参考内容：
 #### [OpenChain-Project Reference Material](https://github.com/OpenChain-Project/Reference-Material)
 
-工具评估：
+**工具评估：**
   https://github.com/OpenChain-Project/Reference-Material/tree/master/General-Tooling-Support-Material
-通用审核材料：
-  https://github.com/OpenChain-Project/Reference-Material/tree/master/General-Compliance-Support-Material
+
+**通用审核材料：**
+ [General-Compliance-Support-Material](https://github.com/OpenChain-Project/Reference-Material/tree/master/General-Compliance-Support-Material)
 
 
 [Self-Certification: Security Assurance 1.1 中文版](https://github.com/OpenChain-Project/Reference-Material/tree/master/Self-Certification/Checklist/Security-Assurance-1.1/zh-Hans")
+
+
+### 其他法律法规和参考文件等
+https://opensource.guide/legal/

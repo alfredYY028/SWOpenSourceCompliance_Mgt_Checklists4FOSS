@@ -1,13 +1,14 @@
-## Software OpenSource Checklist
+---
+layout: 
+title: 开源软件导入检查清单（Checklist for FOSS import）
+description: 这部分页面主要是用于使用外部开源软件组件到自己的产品中，需要进行的详细检查。
+nav_order: 
+Auther:  Alfred Senior YANG
+Email:   alfredsenioryang@foxmail.com
+---
 
-
-Version 1
-
-这个技术检查表，按照中文和英文版本同时提供。并且，结合ISO/IEC 5230标准的要求，将该标准中已经罗列的管理性规则作为本规范的补充。
-
-### 内容Context
-
-
+## 开源软件导入检查清单（Checklist for FOSS import）
+version 1.0
 
 ### Checklist
 
@@ -42,5 +43,4 @@ Version 1
 - [ ] **2.6** 
 
 - [ ] **2.7** 
-
 
