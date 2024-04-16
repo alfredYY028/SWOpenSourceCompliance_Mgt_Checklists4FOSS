@@ -1,13 +1,14 @@
 ---
 layout: 
-title: 开源软件导入检查清单（Checklist for FOSS import）
+title: 软件包集成情况检查单（Checklist for Product and component integration）
 description: 这部分页面主要是用于使用外部开源软件组件到自己的产品中，需要进行的详细检查。
 nav_order: 
 Auther:  Alfred Senior YANG
 Email:   alfredsenioryang@foxmail.com
 ---
 
-## 开源软件导入检查清单（Checklist for FOSS import）
+## 软件包集成情况检查单（Checklist for Product and component integration）
+version 1.0
 
 ### Checklist
 

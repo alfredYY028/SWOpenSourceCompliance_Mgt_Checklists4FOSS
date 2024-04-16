@@ -1,0 +1,119 @@
+<mxfile host="Electron" modified="2024-04-06T08:30:43.731Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.2 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="NrVE4nv_WWyqQEJzanKR" version="22.0.2" type="device">
+  <diagram name="第 1 页" id="acyCwFvoxw1A1-NLWglK">
+    <mxGraphModel dx="789" dy="490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="S0LXVtmESpwxHKB-OP2k-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="S0LXVtmESpwxHKB-OP2k-1" target="S0LXVtmESpwxHKB-OP2k-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="120" />
+              <mxPoint x="210" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S0LXVtmESpwxHKB-OP2k-32" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="S0LXVtmESpwxHKB-OP2k-3">
+          <mxGeometry x="0.01" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S0LXVtmESpwxHKB-OP2k-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S0LXVtmESpwxHKB-OP2k-1" target="S0LXVtmESpwxHKB-OP2k-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S0LXVtmESpwxHKB-OP2k-14" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="S0LXVtmESpwxHKB-OP2k-13">
+          <mxGeometry x="0.17" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S0LXVtmESpwxHKB-OP2k-1" value="开源最终会成为最终产品吗?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="40" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S0LXVtmESpwxHKB-OP2k-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S0LXVtmESpwxHKB-OP2k-2" target="S0LXVtmESpwxHKB-OP2k-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S0LXVtmESpwxHKB-OP2k-9" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="S0LXVtmESpwxHKB-OP2k-6">
+          <mxGeometry x="0.175" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S0LXVtmESpwxHKB-OP2k-2" value="产品会被分发到组织之外吗？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="220" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S0LXVtmESpwxHKB-OP2k-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S0LXVtmESpwxHKB-OP2k-5" target="S0LXVtmESpwxHKB-OP2k-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S0LXVtmESpwxHKB-OP2k-10" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="S0LXVtmESpwxHKB-OP2k-8">
+          <mxGeometry x="0.05" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S0LXVtmESpwxHKB-OP2k-5" value="该开源软件是否在“已认可软件”的清单中？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="340" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S0LXVtmESpwxHKB-OP2k-7" value="该开源软件或许可以用在该产品中" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="460" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S0LXVtmESpwxHKB-OP2k-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="S0LXVtmESpwxHKB-OP2k-12" target="S0LXVtmESpwxHKB-OP2k-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S0LXVtmESpwxHKB-OP2k-16" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="S0LXVtmESpwxHKB-OP2k-15">
+          <mxGeometry x="0.05" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S0LXVtmESpwxHKB-OP2k-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="S0LXVtmESpwxHKB-OP2k-12" target="S0LXVtmESpwxHKB-OP2k-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S0LXVtmESpwxHKB-OP2k-19" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="S0LXVtmESpwxHKB-OP2k-18">
+          <mxGeometry x="-0.1905" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S0LXVtmESpwxHKB-OP2k-12" value="由开放源码生成的代码最终会出现在最终产品中吗?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="160" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S0LXVtmESpwxHKB-OP2k-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S0LXVtmESpwxHKB-OP2k-17" target="S0LXVtmESpwxHKB-OP2k-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S0LXVtmESpwxHKB-OP2k-39" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="S0LXVtmESpwxHKB-OP2k-36">
+          <mxGeometry x="0.1286" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S0LXVtmESpwxHKB-OP2k-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S0LXVtmESpwxHKB-OP2k-17" target="S0LXVtmESpwxHKB-OP2k-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S0LXVtmESpwxHKB-OP2k-38" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="S0LXVtmESpwxHKB-OP2k-37">
+          <mxGeometry x="0.3444" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S0LXVtmESpwxHKB-OP2k-17" value="该开源软件是否在“被拒绝软件”的清单中？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="320" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S0LXVtmESpwxHKB-OP2k-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="545" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S0LXVtmESpwxHKB-OP2k-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="S0LXVtmESpwxHKB-OP2k-2" target="S0LXVtmESpwxHKB-OP2k-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S0LXVtmESpwxHKB-OP2k-35" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="S0LXVtmESpwxHKB-OP2k-34">
+          <mxGeometry x="-0.1667" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S0LXVtmESpwxHKB-OP2k-22" value="贴上“仅内部使用”的标签" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="300" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S0LXVtmESpwxHKB-OP2k-23" value="请联系法规部门获得批准" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="400" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S0LXVtmESpwxHKB-OP2k-24" value="该开源软件或许不能用在该产品中" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="400" width="200" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

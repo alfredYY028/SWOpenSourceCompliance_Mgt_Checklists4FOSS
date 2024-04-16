@@ -1,13 +1,14 @@
 ---
 layout: 
-title: 开源软件导入检查清单（Checklist for FOSS import）
+title: MIT license检查清单（Checklist for MIT license）
 description: 这部分页面主要是用于使用外部开源软件组件到自己的产品中，需要进行的详细检查。
 nav_order: 
 Auther:  Alfred Senior YANG
 Email:   alfredsenioryang@foxmail.com
 ---
 
-## 开源软件导入检查清单（Checklist for FOSS import）
+## MIT license检查清单（Checklist for MIT license）
+version 1.0
 
 ### Checklist
 
