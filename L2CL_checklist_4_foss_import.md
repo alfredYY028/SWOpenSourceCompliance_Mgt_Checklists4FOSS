@@ -23,7 +23,7 @@ version 1.0
 
  - [ ]  **1.2** 
 
-	- [ ] Is the 
+	- [ ] Is the √
 	- [ ] Does the 
 
  - [ ]  **1.3** 
